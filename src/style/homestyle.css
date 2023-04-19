@@ -1,0 +1,39 @@
+.main_home{
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-decoration: none;
+
+
+}
+
+.home_line{
+    width: auto;
+
+}
+.home_line h1 {
+    justify-content: center;
+    align-items: center;
+    font-size: 80px;
+    margin-top: 120px;
+
+
+}
+.home_list{
+padding: 0px;
+margin-top: 20px;
+
+font-size: 30px;
+text-align: center;
+text-decoration: none;
+list-style-type:none;
+}
+
+.home_list li{
+    margin-top: 20px;
+    font-weight: bold;
+
+}

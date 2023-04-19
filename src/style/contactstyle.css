@@ -1,0 +1,21 @@
+.contact{
+    height: 90vh;
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size: cover;
+     display: flex;
+    flex-direction: column; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 25px;
+    
+}
+.contact_heading{
+    margin-top: 50px;
+    margin-bottom: 10px;
+    text-decoration: underline;
+    color: rgb(221, 7, 7);
+}
